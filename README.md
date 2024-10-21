@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+I'm currently working on Python and Flask Framework.
+
+Ping me:
+Email: haiderfurqan5734@gmail.com
+Phone No: +923417429299
 <!--
 **Furqan5734-fdk/Furqan5734-fdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
